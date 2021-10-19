@@ -9,9 +9,9 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-I am a PhD student at the [Computational Linguistics Group]https://www.unibs.it/it/ateneo/organizzazione/dipartimenti/ingegneria-dellinformazione-dii) of the University of Brescia and part of the project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io), focusing on interpretability for neural machine translation. Previously, I was a research scientist at [Aindo](https://www.aindo.com), a student in the [Data Science MSc](https://dssc.units.it/) at University of Trieste & SISSA and a founding member of the [AI Student Society](https://www.ai2s.it).
+I am a PhD student at the University of Brescia and member of ASACUSA and CLAS12 collaboration.
 
-My research focuses on 
+My research focuses on ML algorithm applied to experimental particle physics. In particular in antimatter and nuclear physics.
                                                                                                                                                  
 <table align="center" width="100%">
   <tr>
