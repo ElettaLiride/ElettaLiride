@@ -18,7 +18,7 @@ My research focuses on ML algorithm applied to experimental particle physics. In
 <table align="center" width="50%">
   <tr>
     <td align="center">
-      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ElettaLiride&count_private=true&theme=radical&show_icons=true" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ElettaLiride&count_private=true&theme=radical&show_icons=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElettaLiride&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
     </td>
   </tr>
