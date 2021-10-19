@@ -13,15 +13,15 @@
 
 I am a PhD student at the [Computational Linguistics Group]https://www.unibs.it/it/ateneo/organizzazione/dipartimenti/ingegneria-dellinformazione-dii) of the University of Brescia and part of the project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io), focusing on interpretability for neural machine translation. Previously, I was a research scientist at [Aindo](https://www.aindo.com), a student in the [Data Science MSc](https://dssc.units.it/) at University of Trieste & SISSA and a founding member of the [AI Student Society](https://www.ai2s.it).
 
-My research focuses on interpretability for NLP models, in particular to the benefit of end-users and by leveraging human behavioral signals. I am also passionate about social applications of machine learning, ethical AI, and open source collaboration :octocat:. My pronouns are he/him/his.
-
+My research focuses on 
+                                                                                                                                                 
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=gsarti&count_private=true&theme=radical&show_icons=true" />
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=ElettaLiride&count_private=true&theme=radical&show_icons=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsarti&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElettaLiride&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
     </td>
   </tr>
 </table>
