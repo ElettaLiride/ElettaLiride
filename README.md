@@ -10,7 +10,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 I am a PhD student at the University of Brescia and member of ASACUSA and CLAS12 collaboration.
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid blue"> </hr>
 
 My research focuses on ML algorithm applied to experimental particle physics. In particular in antimatter and nuclear physics.
 
