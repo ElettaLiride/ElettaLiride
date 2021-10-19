@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Gihub profile! </h1>
 
 <p align="center">
-  <a href="https://drii.unibs.it/?page_id=2764"><img alt="Unibs" title="Unibs" src="https://tinyurl.com/rug-pure-shield"></a>
+  <a href="https://drii.unibs.it/?page_id=2764"><img alt="Unibs" title="Unibs" src="https://img.shields.io/badge/UNIBS%20DII-dc002d?style=for-the-badge&color=blue"></a>
   <a href="https://twitter.com/un_gio"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/giovanni-costantini-6b65a010a/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=xEKuE-EAAAAJ&hl=it"><img alt="Google Scholar" title="Google Scholar"src="https://img.shields.io/badge/scholar-77a9fa.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"></a>
